@@ -1,0 +1,1510 @@
+{
+  "id": 2674667,
+  "identifier": "DVN/QLCABU",
+  "persistentUrl": "https://doi.org/10.7910/DVN/QLCABU",
+  "protocol": "doi",
+  "authority": "10.7910",
+  "publisher": "Harvard Dataverse",
+  "publicationDate": "2015-05-14",
+  "storageIdentifier": "s3://10.7910/DVN/QLCABU",
+  "datasetVersion": {
+    "id": 181167,
+    "datasetId": 2674667,
+    "datasetPersistentId": "doi:10.7910/DVN/QLCABU",
+    "storageIdentifier": "s3://10.7910/DVN/QLCABU",
+    "versionNumber": 1,
+    "versionMinorNumber": 3,
+    "versionState": "RELEASED",
+    "lastUpdateTime": "2020-02-09T11:08:13Z",
+    "releaseTime": "2020-02-09T11:08:13Z",
+    "createTime": "2020-02-09T11:07:47Z",
+    "license": "NONE",
+    "termsOfUse": "The data is released under ODbL 1.0 license. The Open Database License (ODbL) explicitly covers data and not just creative works like photographs or text. A plain language summary of the ODbL is available on the Open Data Commons website (http://opendatacommons.org/licenses/odbl/1-0/). You are free: 1) to share: to copy, distribute and use the database; 2) to create: to produce works from the database; 3) to adapt: to modify, transform and build upon the database. The ODbL also requires you to share any improvements you make to this databases under the ODbL as well. For example, if you combine the information with your own data, the resultant information must be published under the Attribution Share-Alike ODbL. This means that the whole community can benefit from both of our work on the database. The ODbL requires you to attribute your use of this data. This is important as it allows us (and in turn the community) to benefit from reuse of our work, and so allows us to continue to provide this service. Use of any data must be accompanied by a hyperlink reading \"from BigDataChallenge contest\" (http://www.telecomitalia.com/tit/en/bigdatachallenge.html) and linking to either the ODI node Trento (http://theodi.fbk.eu/) section homepage or the page referring to the information. ",
+    "fileAccessRequest": false,
+    "metadataBlocks": {
+      "citation": {
+        "displayName": "Citation Metadata",
+        "fields": [
+          {
+            "typeName": "title",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "Telecommunications - SMS, Call, Internet - TN"
+          },
+          {
+            "typeName": "author",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Telecom Italia"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "datasetContact",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "datasetContactName": {
+                  "typeName": "datasetContactName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "Lepri, Bruno"
+                },
+                "datasetContactAffiliation": {
+                  "typeName": "datasetContactAffiliation",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "FBK - Fondazione Bruno Kessler"
+                },
+                "datasetContactEmail": {
+                  "typeName": "datasetContactEmail",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "lepri@fbk.eu"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "dsDescription",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "dsDescriptionValue": {
+                  "typeName": "dsDescriptionValue",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "This dataset provides information about the telecommunication activity over the Province of Trento.\r\n\r\n<a href=\"https://www.nature.com/articles/sdata201555\">Full description of the files columns, and related publication</a>"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "subject",
+            "multiple": true,
+            "typeClass": "controlledVocabulary",
+            "value": [
+              "Computer and Information Science",
+              "Social Sciences"
+            ]
+          },
+          {
+            "typeName": "publication",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "publicationIDType": {
+                  "typeName": "publicationIDType",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "doi"
+                },
+                "publicationIDNumber": {
+                  "typeName": "publicationIDNumber",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "10.1038/sdata.2015.55"
+                },
+                "publicationURL": {
+                  "typeName": "publicationURL",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "https://www.nature.com/articles/sdata201555"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "depositor",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "De Nadai, Marco"
+          },
+          {
+            "typeName": "dateOfDeposit",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "2015-05-08"
+          }
+        ]
+      }
+    },
+    "files": [
+      {
+        "label": "sms-call-internet-tn-2013-11-01.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674712,
+          "persistentId": "doi:10.7910/DVN/QLCABU/GNGIRR",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/GNGIRR",
+          "filename": "sms-call-internet-tn-2013-11-01.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 171100278,
+          "storageIdentifier": "s3://dvn-cloud:14d343a4a62-9739c615a29e",
+          "rootDataFileId": -1,
+          "md5": "ee15ce264199ca12ddd7cba3b7d35fd1",
+          "checksum": {
+            "type": "MD5",
+            "value": "ee15ce264199ca12ddd7cba3b7d35fd1"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-02.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674718,
+          "persistentId": "doi:10.7910/DVN/QLCABU/1EOHUF",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/1EOHUF",
+          "filename": "sms-call-internet-tn-2013-11-02.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 167076871,
+          "storageIdentifier": "s3://dvn-cloud:14d343d7544-2b80a0b3d693",
+          "rootDataFileId": -1,
+          "md5": "ff2971121baa192f02496b501d63542f",
+          "checksum": {
+            "type": "MD5",
+            "value": "ff2971121baa192f02496b501d63542f"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-03.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674726,
+          "persistentId": "doi:10.7910/DVN/QLCABU/BORO2B",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/BORO2B",
+          "filename": "sms-call-internet-tn-2013-11-03.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 158290481,
+          "storageIdentifier": "s3://dvn-cloud:14d3440782e-ffc470beed4a",
+          "rootDataFileId": -1,
+          "md5": "3a1af240a6748ed25949137f8121d4bf",
+          "checksum": {
+            "type": "MD5",
+            "value": "3a1af240a6748ed25949137f8121d4bf"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-04.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674730,
+          "persistentId": "doi:10.7910/DVN/QLCABU/PV2GUQ",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/PV2GUQ",
+          "filename": "sms-call-internet-tn-2013-11-04.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 161692357,
+          "storageIdentifier": "s3://dvn-cloud:14d34438ab3-66768df7e7d4",
+          "rootDataFileId": -1,
+          "md5": "2002844a627eb5ec020340c7504fc0be",
+          "checksum": {
+            "type": "MD5",
+            "value": "2002844a627eb5ec020340c7504fc0be"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-05.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674734,
+          "persistentId": "doi:10.7910/DVN/QLCABU/GXO1HG",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/GXO1HG",
+          "filename": "sms-call-internet-tn-2013-11-05.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 165015583,
+          "storageIdentifier": "s3://dvn-cloud:14d34465af8-9988a007b0cc",
+          "rootDataFileId": -1,
+          "md5": "403b75fa8b8afbd7c2a00f7546ebe54d",
+          "checksum": {
+            "type": "MD5",
+            "value": "403b75fa8b8afbd7c2a00f7546ebe54d"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-06.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674738,
+          "persistentId": "doi:10.7910/DVN/QLCABU/RPRRPN",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/RPRRPN",
+          "filename": "sms-call-internet-tn-2013-11-06.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 164408232,
+          "storageIdentifier": "s3://dvn-cloud:14d34492ca0-18293c7c4af5",
+          "rootDataFileId": -1,
+          "md5": "6fffe4e1461e7833b7bfc08ca19712c6",
+          "checksum": {
+            "type": "MD5",
+            "value": "6fffe4e1461e7833b7bfc08ca19712c6"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-07.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674741,
+          "persistentId": "doi:10.7910/DVN/QLCABU/NQPL1K",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/NQPL1K",
+          "filename": "sms-call-internet-tn-2013-11-07.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 164910100,
+          "storageIdentifier": "s3://dvn-cloud:14d344bfe76-194626a1c9d2",
+          "rootDataFileId": -1,
+          "md5": "65e9432ea8b764b097e959a520b70635",
+          "checksum": {
+            "type": "MD5",
+            "value": "65e9432ea8b764b097e959a520b70635"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-08.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674745,
+          "persistentId": "doi:10.7910/DVN/QLCABU/AAHPFO",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/AAHPFO",
+          "filename": "sms-call-internet-tn-2013-11-08.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 164344711,
+          "storageIdentifier": "s3://dvn-cloud:14d344f2196-70376c78bfbd",
+          "rootDataFileId": -1,
+          "md5": "c69611cd54ad09cdf305ec00bc417420",
+          "checksum": {
+            "type": "MD5",
+            "value": "c69611cd54ad09cdf305ec00bc417420"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-09.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674748,
+          "persistentId": "doi:10.7910/DVN/QLCABU/VWFWW9",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/VWFWW9",
+          "filename": "sms-call-internet-tn-2013-11-09.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 157494464,
+          "storageIdentifier": "s3://dvn-cloud:14d3451e4ba-46f9ec5089f1",
+          "rootDataFileId": -1,
+          "md5": "006cf376111ba507665ede6dbceb5267",
+          "checksum": {
+            "type": "MD5",
+            "value": "006cf376111ba507665ede6dbceb5267"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-10.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674752,
+          "persistentId": "doi:10.7910/DVN/QLCABU/2E4ZRK",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/2E4ZRK",
+          "filename": "sms-call-internet-tn-2013-11-10.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 152646875,
+          "storageIdentifier": "s3://dvn-cloud:14d34548763-d1c1d35be686",
+          "rootDataFileId": -1,
+          "md5": "ee88ef30820d3f56087e176dcd55aaea",
+          "checksum": {
+            "type": "MD5",
+            "value": "ee88ef30820d3f56087e176dcd55aaea"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-11.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674754,
+          "persistentId": "doi:10.7910/DVN/QLCABU/5F34FR",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/5F34FR",
+          "filename": "sms-call-internet-tn-2013-11-11.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 161080862,
+          "storageIdentifier": "s3://dvn-cloud:14d34574d59-9fe465e23881",
+          "rootDataFileId": -1,
+          "md5": "4ac762c2caea4653725d168bf331b0cb",
+          "checksum": {
+            "type": "MD5",
+            "value": "4ac762c2caea4653725d168bf331b0cb"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-12.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674755,
+          "persistentId": "doi:10.7910/DVN/QLCABU/HBYJPO",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/HBYJPO",
+          "filename": "sms-call-internet-tn-2013-11-12.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 162685960,
+          "storageIdentifier": "s3://dvn-cloud:14d345a631c-ca6084938eeb",
+          "rootDataFileId": -1,
+          "md5": "21ad13f23f898a63096679f9139732d1",
+          "checksum": {
+            "type": "MD5",
+            "value": "21ad13f23f898a63096679f9139732d1"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-13.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674756,
+          "persistentId": "doi:10.7910/DVN/QLCABU/WIJ5EV",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/WIJ5EV",
+          "filename": "sms-call-internet-tn-2013-11-13.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 161515238,
+          "storageIdentifier": "s3://dvn-cloud:14d345d2dba-85752f31c4a8",
+          "rootDataFileId": -1,
+          "md5": "502b8679ec228229616af58eac4d78e3",
+          "checksum": {
+            "type": "MD5",
+            "value": "502b8679ec228229616af58eac4d78e3"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-14.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674757,
+          "persistentId": "doi:10.7910/DVN/QLCABU/PQTMLJ",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/PQTMLJ",
+          "filename": "sms-call-internet-tn-2013-11-14.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 163623094,
+          "storageIdentifier": "s3://dvn-cloud:14d3460511b-f8f0f71d35ff",
+          "rootDataFileId": -1,
+          "md5": "b735054e6304bd3d210a70ed25a237f2",
+          "checksum": {
+            "type": "MD5",
+            "value": "b735054e6304bd3d210a70ed25a237f2"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-15.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674758,
+          "persistentId": "doi:10.7910/DVN/QLCABU/RNDWCQ",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/RNDWCQ",
+          "filename": "sms-call-internet-tn-2013-11-15.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 164687997,
+          "storageIdentifier": "s3://dvn-cloud:14d34632906-4066d28b5173",
+          "rootDataFileId": -1,
+          "md5": "04c72282e37f32a516fe4df139c9ecfd",
+          "checksum": {
+            "type": "MD5",
+            "value": "04c72282e37f32a516fe4df139c9ecfd"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-16.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674759,
+          "persistentId": "doi:10.7910/DVN/QLCABU/NQCDNV",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/NQCDNV",
+          "filename": "sms-call-internet-tn-2013-11-16.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 157675471,
+          "storageIdentifier": "s3://dvn-cloud:14d34663b7a-565ed257d52c",
+          "rootDataFileId": -1,
+          "md5": "1fa0792af67f79ab8636a0893e5eebba",
+          "checksum": {
+            "type": "MD5",
+            "value": "1fa0792af67f79ab8636a0893e5eebba"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-17.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674760,
+          "persistentId": "doi:10.7910/DVN/QLCABU/C9WZOH",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/C9WZOH",
+          "filename": "sms-call-internet-tn-2013-11-17.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 150798439,
+          "storageIdentifier": "s3://dvn-cloud:14d3468e0f9-13456491e7aa",
+          "rootDataFileId": -1,
+          "md5": "96781504a637ef46851f9ba1c4d7a448",
+          "checksum": {
+            "type": "MD5",
+            "value": "96781504a637ef46851f9ba1c4d7a448"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-18.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674761,
+          "persistentId": "doi:10.7910/DVN/QLCABU/JLEDEG",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/JLEDEG",
+          "filename": "sms-call-internet-tn-2013-11-18.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 157807310,
+          "storageIdentifier": "s3://dvn-cloud:14d346bf087-8fb3768bf5f0",
+          "rootDataFileId": -1,
+          "md5": "8cdc9fe6e38240428053ad6594307efb",
+          "checksum": {
+            "type": "MD5",
+            "value": "8cdc9fe6e38240428053ad6594307efb"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-19.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674762,
+          "persistentId": "doi:10.7910/DVN/QLCABU/GXW6ZY",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/GXW6ZY",
+          "filename": "sms-call-internet-tn-2013-11-19.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 161734536,
+          "storageIdentifier": "s3://dvn-cloud:14d346ec099-5ac067459181",
+          "rootDataFileId": -1,
+          "md5": "fbbb326036152a2ff5089433d28ae9cb",
+          "checksum": {
+            "type": "MD5",
+            "value": "fbbb326036152a2ff5089433d28ae9cb"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-20.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674768,
+          "persistentId": "doi:10.7910/DVN/QLCABU/GNKR2R",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/GNKR2R",
+          "filename": "sms-call-internet-tn-2013-11-20.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 164139914,
+          "storageIdentifier": "s3://dvn-cloud:14d34719734-1ca2e266f30b",
+          "rootDataFileId": -1,
+          "md5": "e992c589b463ea15323aa905652556a3",
+          "checksum": {
+            "type": "MD5",
+            "value": "e992c589b463ea15323aa905652556a3"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-21.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674771,
+          "persistentId": "doi:10.7910/DVN/QLCABU/BD2K71",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/BD2K71",
+          "filename": "sms-call-internet-tn-2013-11-21.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 166896593,
+          "storageIdentifier": "s3://dvn-cloud:14d34747883-75bb4af5f78b",
+          "rootDataFileId": -1,
+          "md5": "55a8725ef6c633314c7648b93eb7a011",
+          "checksum": {
+            "type": "MD5",
+            "value": "55a8725ef6c633314c7648b93eb7a011"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-22.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674774,
+          "persistentId": "doi:10.7910/DVN/QLCABU/GJHQFS",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/GJHQFS",
+          "filename": "sms-call-internet-tn-2013-11-22.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 167532601,
+          "storageIdentifier": "s3://dvn-cloud:14d347765b5-f0d1e0c96b1f",
+          "rootDataFileId": -1,
+          "md5": "a00f5922e77f82a1d2c529163ff23b88",
+          "checksum": {
+            "type": "MD5",
+            "value": "a00f5922e77f82a1d2c529163ff23b88"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-23.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674777,
+          "persistentId": "doi:10.7910/DVN/QLCABU/2APQ4T",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/2APQ4T",
+          "filename": "sms-call-internet-tn-2013-11-23.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 154812138,
+          "storageIdentifier": "s3://dvn-cloud:14d347a2917-173e2fc98972",
+          "rootDataFileId": -1,
+          "md5": "d0f74a64351747c27cc522afa7970979",
+          "checksum": {
+            "type": "MD5",
+            "value": "d0f74a64351747c27cc522afa7970979"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-24.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674782,
+          "persistentId": "doi:10.7910/DVN/QLCABU/RO0YHX",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/RO0YHX",
+          "filename": "sms-call-internet-tn-2013-11-24.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 149176708,
+          "storageIdentifier": "s3://dvn-cloud:14d347cdcde-3189c30ae8b0",
+          "rootDataFileId": -1,
+          "md5": "b51bd3d11f6e9c570f8808f463d3119a",
+          "checksum": {
+            "type": "MD5",
+            "value": "b51bd3d11f6e9c570f8808f463d3119a"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-25.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674786,
+          "persistentId": "doi:10.7910/DVN/QLCABU/BYGOCQ",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/BYGOCQ",
+          "filename": "sms-call-internet-tn-2013-11-25.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 158197767,
+          "storageIdentifier": "s3://dvn-cloud:14d34800647-44288c82658b",
+          "rootDataFileId": -1,
+          "md5": "0b09d5395d62362c31c92555937236c1",
+          "checksum": {
+            "type": "MD5",
+            "value": "0b09d5395d62362c31c92555937236c1"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-26.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674790,
+          "persistentId": "doi:10.7910/DVN/QLCABU/X5VQVG",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/X5VQVG",
+          "filename": "sms-call-internet-tn-2013-11-26.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 161872619,
+          "storageIdentifier": "s3://dvn-cloud:14d348335c9-9a7ef0906617",
+          "rootDataFileId": -1,
+          "md5": "c7eac443d77e7c84530c8f979ec7816f",
+          "checksum": {
+            "type": "MD5",
+            "value": "c7eac443d77e7c84530c8f979ec7816f"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-27.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674796,
+          "persistentId": "doi:10.7910/DVN/QLCABU/XUIBT6",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/XUIBT6",
+          "filename": "sms-call-internet-tn-2013-11-27.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 162206577,
+          "storageIdentifier": "s3://dvn-cloud:14d3486aea4-335c8bdfb006",
+          "rootDataFileId": -1,
+          "md5": "ae7146c0eadbde474f4b3e9d2b93175f",
+          "checksum": {
+            "type": "MD5",
+            "value": "ae7146c0eadbde474f4b3e9d2b93175f"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-28.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674799,
+          "persistentId": "doi:10.7910/DVN/QLCABU/NKRERD",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/NKRERD",
+          "filename": "sms-call-internet-tn-2013-11-28.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 162229676,
+          "storageIdentifier": "s3://dvn-cloud:14d3489910c-3ff2244a853a",
+          "rootDataFileId": -1,
+          "md5": "ff6a700cd14aad53d46a551f4995d569",
+          "checksum": {
+            "type": "MD5",
+            "value": "ff6a700cd14aad53d46a551f4995d569"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-29.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674801,
+          "persistentId": "doi:10.7910/DVN/QLCABU/VTYKXE",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/VTYKXE",
+          "filename": "sms-call-internet-tn-2013-11-29.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 164072539,
+          "storageIdentifier": "s3://dvn-cloud:14d348c7b58-eb5c45cca2d7",
+          "rootDataFileId": -1,
+          "md5": "907275fe34b804889d54ac7286af5c62",
+          "checksum": {
+            "type": "MD5",
+            "value": "907275fe34b804889d54ac7286af5c62"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-11-30.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674804,
+          "persistentId": "doi:10.7910/DVN/QLCABU/YAG1RH",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/YAG1RH",
+          "filename": "sms-call-internet-tn-2013-11-30.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 157788732,
+          "storageIdentifier": "s3://dvn-cloud:14d348f51e0-c62940c3c8f1",
+          "rootDataFileId": -1,
+          "md5": "cc69d2ce73c72d09896cbbe8ff767f41",
+          "checksum": {
+            "type": "MD5",
+            "value": "cc69d2ce73c72d09896cbbe8ff767f41"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-01.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674816,
+          "persistentId": "doi:10.7910/DVN/QLCABU/V4NFXO",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/V4NFXO",
+          "filename": "sms-call-internet-tn-2013-12-01.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 156042651,
+          "storageIdentifier": "s3://dvn-cloud:14d34992e3c-c604602cae8a",
+          "rootDataFileId": -1,
+          "md5": "592a4595aa066c524a7d5399414be08e",
+          "checksum": {
+            "type": "MD5",
+            "value": "592a4595aa066c524a7d5399414be08e"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-02.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674821,
+          "persistentId": "doi:10.7910/DVN/QLCABU/RTCHRR",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/RTCHRR",
+          "filename": "sms-call-internet-tn-2013-12-02.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 161383246,
+          "storageIdentifier": "s3://dvn-cloud:14d34a18a3b-b88596f390a2",
+          "rootDataFileId": -1,
+          "md5": "c3206320ea16b11f064c3b779ea9ea80",
+          "checksum": {
+            "type": "MD5",
+            "value": "c3206320ea16b11f064c3b779ea9ea80"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-03.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674823,
+          "persistentId": "doi:10.7910/DVN/QLCABU/TCUKUR",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/TCUKUR",
+          "filename": "sms-call-internet-tn-2013-12-03.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 166055659,
+          "storageIdentifier": "s3://dvn-cloud:14d34ab1039-478703f16310",
+          "rootDataFileId": -1,
+          "md5": "b4180354c95d0825689ed5f5526a56e4",
+          "checksum": {
+            "type": "MD5",
+            "value": "b4180354c95d0825689ed5f5526a56e4"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-04.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674824,
+          "persistentId": "doi:10.7910/DVN/QLCABU/1H9IUE",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/1H9IUE",
+          "filename": "sms-call-internet-tn-2013-12-04.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 168769308,
+          "storageIdentifier": "s3://dvn-cloud:14d34b3d202-a7c8724ea1be",
+          "rootDataFileId": -1,
+          "md5": "f28cb9603a089a7297a46b25d3f449bd",
+          "checksum": {
+            "type": "MD5",
+            "value": "f28cb9603a089a7297a46b25d3f449bd"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-05.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674825,
+          "persistentId": "doi:10.7910/DVN/QLCABU/JU5D7G",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/JU5D7G",
+          "filename": "sms-call-internet-tn-2013-12-05.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 172627703,
+          "storageIdentifier": "s3://dvn-cloud:14d34bcc467-643994652633",
+          "rootDataFileId": -1,
+          "md5": "c74e0f88b0715796ef7ae3e0caead1c7",
+          "checksum": {
+            "type": "MD5",
+            "value": "c74e0f88b0715796ef7ae3e0caead1c7"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-06.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674826,
+          "persistentId": "doi:10.7910/DVN/QLCABU/BMFP5C",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/BMFP5C",
+          "filename": "sms-call-internet-tn-2013-12-06.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 178462181,
+          "storageIdentifier": "s3://dvn-cloud:14d34c61078-6523ee372ee3",
+          "rootDataFileId": -1,
+          "md5": "4508f1d926c68c6c6df8000f884e81d1",
+          "checksum": {
+            "type": "MD5",
+            "value": "4508f1d926c68c6c6df8000f884e81d1"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-07.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674827,
+          "persistentId": "doi:10.7910/DVN/QLCABU/CMF5JL",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/CMF5JL",
+          "filename": "sms-call-internet-tn-2013-12-07.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 181840402,
+          "storageIdentifier": "s3://dvn-cloud:14d34d0845e-14b42875e162",
+          "rootDataFileId": -1,
+          "md5": "ab8cc9ed168d13686b384e0769bd0863",
+          "checksum": {
+            "type": "MD5",
+            "value": "ab8cc9ed168d13686b384e0769bd0863"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-08.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674828,
+          "persistentId": "doi:10.7910/DVN/QLCABU/02LXJL",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/02LXJL",
+          "filename": "sms-call-internet-tn-2013-12-08.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 183214669,
+          "storageIdentifier": "s3://dvn-cloud:14d34db073e-82ef62bebba5",
+          "rootDataFileId": -1,
+          "md5": "b983c15cad9004d39d24bd73c1cfee1d",
+          "checksum": {
+            "type": "MD5",
+            "value": "b983c15cad9004d39d24bd73c1cfee1d"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-09.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674829,
+          "persistentId": "doi:10.7910/DVN/QLCABU/IDWMOD",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/IDWMOD",
+          "filename": "sms-call-internet-tn-2013-12-09.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 195735388,
+          "storageIdentifier": "s3://dvn-cloud:14d34e538a4-c58a9c9c8ca5",
+          "rootDataFileId": -1,
+          "md5": "95aa8e3c60897941fc438eb72a17a2dd",
+          "checksum": {
+            "type": "MD5",
+            "value": "95aa8e3c60897941fc438eb72a17a2dd"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-10.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674830,
+          "persistentId": "doi:10.7910/DVN/QLCABU/TNDSFT",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/TNDSFT",
+          "filename": "sms-call-internet-tn-2013-12-10.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 202425667,
+          "storageIdentifier": "s3://dvn-cloud:14d34efb0d0-e7959ec0983c",
+          "rootDataFileId": -1,
+          "md5": "057745cf10b5ee9ab82876d616026ae7",
+          "checksum": {
+            "type": "MD5",
+            "value": "057745cf10b5ee9ab82876d616026ae7"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-11.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674831,
+          "persistentId": "doi:10.7910/DVN/QLCABU/BFVLLB",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/BFVLLB",
+          "filename": "sms-call-internet-tn-2013-12-11.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 205908291,
+          "storageIdentifier": "s3://dvn-cloud:14d34fa682e-b7e40fcbe3ae",
+          "rootDataFileId": -1,
+          "md5": "b88a4c42d7b0a3049da2df6be3f7fca9",
+          "checksum": {
+            "type": "MD5",
+            "value": "b88a4c42d7b0a3049da2df6be3f7fca9"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-12.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674832,
+          "persistentId": "doi:10.7910/DVN/QLCABU/VMVHH5",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/VMVHH5",
+          "filename": "sms-call-internet-tn-2013-12-12.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 212376002,
+          "storageIdentifier": "s3://dvn-cloud:14d35069d27-c8433bd2774b",
+          "rootDataFileId": -1,
+          "md5": "f4749c50b4e1ceb7a840f1af60ae8840",
+          "checksum": {
+            "type": "MD5",
+            "value": "f4749c50b4e1ceb7a840f1af60ae8840"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-13.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674833,
+          "persistentId": "doi:10.7910/DVN/QLCABU/T7MMZE",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/T7MMZE",
+          "filename": "sms-call-internet-tn-2013-12-13.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 216180260,
+          "storageIdentifier": "s3://dvn-cloud:14d3511bf73-31c17b2bb083",
+          "rootDataFileId": -1,
+          "md5": "c2e31d17e6cd6f41b990cc16a61b65df",
+          "checksum": {
+            "type": "MD5",
+            "value": "c2e31d17e6cd6f41b990cc16a61b65df"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-14.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674835,
+          "persistentId": "doi:10.7910/DVN/QLCABU/PGXIRY",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/PGXIRY",
+          "filename": "sms-call-internet-tn-2013-12-14.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 210745966,
+          "storageIdentifier": "s3://dvn-cloud:14d351e5fbb-f7f5f5fc1462",
+          "rootDataFileId": -1,
+          "md5": "61044fe995af0146a3d598e9e6613e02",
+          "checksum": {
+            "type": "MD5",
+            "value": "61044fe995af0146a3d598e9e6613e02"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-15.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674838,
+          "persistentId": "doi:10.7910/DVN/QLCABU/3MEYGH",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/3MEYGH",
+          "filename": "sms-call-internet-tn-2013-12-15.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 207312449,
+          "storageIdentifier": "s3://dvn-cloud:14d35291a3f-3a718e20b6f7",
+          "rootDataFileId": -1,
+          "md5": "fdf36a192f2ef5e1298dbd6f63b6ce3f",
+          "checksum": {
+            "type": "MD5",
+            "value": "fdf36a192f2ef5e1298dbd6f63b6ce3f"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-16.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2674842,
+          "persistentId": "doi:10.7910/DVN/QLCABU/S9O1VG",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/S9O1VG",
+          "filename": "sms-call-internet-tn-2013-12-16.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 221348639,
+          "storageIdentifier": "s3://dvn-cloud:14d3535e7f2-75f9b4bf7314",
+          "rootDataFileId": -1,
+          "md5": "ecec76849b8187cf137a6663c467edb4",
+          "checksum": {
+            "type": "MD5",
+            "value": "ecec76849b8187cf137a6663c467edb4"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-17.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675637,
+          "persistentId": "doi:10.7910/DVN/QLCABU/QQRHK0",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/QQRHK0",
+          "filename": "sms-call-internet-tn-2013-12-17.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 223879424,
+          "storageIdentifier": "s3://dvn-cloud:14d3542ebc4-a952f0f77de5",
+          "rootDataFileId": -1,
+          "md5": "393df671754a13fcc2a8008c781d7a9a",
+          "checksum": {
+            "type": "MD5",
+            "value": "393df671754a13fcc2a8008c781d7a9a"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-18.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675639,
+          "persistentId": "doi:10.7910/DVN/QLCABU/T4OWKJ",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/T4OWKJ",
+          "filename": "sms-call-internet-tn-2013-12-18.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 224783819,
+          "storageIdentifier": "s3://dvn-cloud:14d354e88ed-a9a09d35feca",
+          "rootDataFileId": -1,
+          "md5": "2c3fb2be00899ab71c7a7c7e6420f375",
+          "checksum": {
+            "type": "MD5",
+            "value": "2c3fb2be00899ab71c7a7c7e6420f375"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-19.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675640,
+          "persistentId": "doi:10.7910/DVN/QLCABU/V7NPVH",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/V7NPVH",
+          "filename": "sms-call-internet-tn-2013-12-19.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 221452608,
+          "storageIdentifier": "s3://dvn-cloud:14d355b41d2-68bdaa92efaa",
+          "rootDataFileId": -1,
+          "md5": "d55cc97f9acb2af54a148342e158938c",
+          "checksum": {
+            "type": "MD5",
+            "value": "d55cc97f9acb2af54a148342e158938c"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-20.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675641,
+          "persistentId": "doi:10.7910/DVN/QLCABU/ZQ3GN3",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/ZQ3GN3",
+          "filename": "sms-call-internet-tn-2013-12-20.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 220405814,
+          "storageIdentifier": "s3://dvn-cloud:14d3566afc9-98678a29724a",
+          "rootDataFileId": -1,
+          "md5": "dad198c9c6b3b8d85ba77c16e0e0c2a0",
+          "checksum": {
+            "type": "MD5",
+            "value": "dad198c9c6b3b8d85ba77c16e0e0c2a0"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-21.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675642,
+          "persistentId": "doi:10.7910/DVN/QLCABU/QJYHR5",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/QJYHR5",
+          "filename": "sms-call-internet-tn-2013-12-21.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 208132747,
+          "storageIdentifier": "s3://dvn-cloud:14d357171b5-fe70b453828f",
+          "rootDataFileId": -1,
+          "md5": "cd74ceacf668425a2bd5053f7f1aad7c",
+          "checksum": {
+            "type": "MD5",
+            "value": "cd74ceacf668425a2bd5053f7f1aad7c"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-22.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675648,
+          "persistentId": "doi:10.7910/DVN/QLCABU/TPL5RW",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/TPL5RW",
+          "filename": "sms-call-internet-tn-2013-12-22.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 197546512,
+          "storageIdentifier": "s3://dvn-cloud:14d357ba363-1769feae81c7",
+          "rootDataFileId": -1,
+          "md5": "199505fefd0ebcba30c771afbae1131e",
+          "checksum": {
+            "type": "MD5",
+            "value": "199505fefd0ebcba30c771afbae1131e"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-23.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675660,
+          "persistentId": "doi:10.7910/DVN/QLCABU/5CISY4",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/5CISY4",
+          "filename": "sms-call-internet-tn-2013-12-23.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 208137914,
+          "storageIdentifier": "s3://dvn-cloud:14d35879038-ace1d275348d",
+          "rootDataFileId": -1,
+          "md5": "50063eb08ac797d8a265ea2d31a973d7",
+          "checksum": {
+            "type": "MD5",
+            "value": "50063eb08ac797d8a265ea2d31a973d7"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-24.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675671,
+          "persistentId": "doi:10.7910/DVN/QLCABU/JJITTQ",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/JJITTQ",
+          "filename": "sms-call-internet-tn-2013-12-24.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 232643671,
+          "storageIdentifier": "s3://dvn-cloud:14d35939451-10f2531964bc",
+          "rootDataFileId": -1,
+          "md5": "1eb6b22633b6e581a8a87fbbbf8d4e6f",
+          "checksum": {
+            "type": "MD5",
+            "value": "1eb6b22633b6e581a8a87fbbbf8d4e6f"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-25.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675681,
+          "persistentId": "doi:10.7910/DVN/QLCABU/7PVCMW",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/7PVCMW",
+          "filename": "sms-call-internet-tn-2013-12-25.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 235631294,
+          "storageIdentifier": "s3://dvn-cloud:14d359fc064-dd0b2390b593",
+          "rootDataFileId": -1,
+          "md5": "ea9cedc79be94c5c58e031ba3f81248e",
+          "checksum": {
+            "type": "MD5",
+            "value": "ea9cedc79be94c5c58e031ba3f81248e"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-26.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675682,
+          "persistentId": "doi:10.7910/DVN/QLCABU/R1Z8ON",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/R1Z8ON",
+          "filename": "sms-call-internet-tn-2013-12-26.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 216123887,
+          "storageIdentifier": "s3://dvn-cloud:14d35aaef6b-3c8debee2146",
+          "rootDataFileId": -1,
+          "md5": "7d0a8f677b7bad81f3f89839d2164693",
+          "checksum": {
+            "type": "MD5",
+            "value": "7d0a8f677b7bad81f3f89839d2164693"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-27.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675683,
+          "persistentId": "doi:10.7910/DVN/QLCABU/BD9FI4",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/BD9FI4",
+          "filename": "sms-call-internet-tn-2013-12-27.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 235836539,
+          "storageIdentifier": "s3://dvn-cloud:14d35b86626-70cc84eca1d1",
+          "rootDataFileId": -1,
+          "md5": "d98dfd8c0686054fc0e2378ec566e030",
+          "checksum": {
+            "type": "MD5",
+            "value": "d98dfd8c0686054fc0e2378ec566e030"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-28.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675691,
+          "persistentId": "doi:10.7910/DVN/QLCABU/1ZJFIT",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/1ZJFIT",
+          "filename": "sms-call-internet-tn-2013-12-28.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 231888107,
+          "storageIdentifier": "s3://dvn-cloud:14d35c46741-e162a7946be0",
+          "rootDataFileId": -1,
+          "md5": "7c5a7b673dcf2b691ba5caeee97e5111",
+          "checksum": {
+            "type": "MD5",
+            "value": "7c5a7b673dcf2b691ba5caeee97e5111"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-29.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675702,
+          "persistentId": "doi:10.7910/DVN/QLCABU/GCCU7B",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/GCCU7B",
+          "filename": "sms-call-internet-tn-2013-12-29.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 233337723,
+          "storageIdentifier": "s3://dvn-cloud:14d35d1cb15-18daad10c579",
+          "rootDataFileId": -1,
+          "md5": "8b5bfc81e18d1f8e0850fe564c8ef18e",
+          "checksum": {
+            "type": "MD5",
+            "value": "8b5bfc81e18d1f8e0850fe564c8ef18e"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-30.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675703,
+          "persistentId": "doi:10.7910/DVN/QLCABU/XMWJ7X",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/XMWJ7X",
+          "filename": "sms-call-internet-tn-2013-12-30.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 257824676,
+          "storageIdentifier": "s3://dvn-cloud:14d35df18e0-bf388c6c225a",
+          "rootDataFileId": -1,
+          "md5": "220fe07b4612dbc7bd8a338c151a9fe1",
+          "checksum": {
+            "type": "MD5",
+            "value": "220fe07b4612dbc7bd8a338c151a9fe1"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2013-12-31.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675704,
+          "persistentId": "doi:10.7910/DVN/QLCABU/KZR43S",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/KZR43S",
+          "filename": "sms-call-internet-tn-2013-12-31.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 301794657,
+          "storageIdentifier": "s3://dvn-cloud:14d35ee970e-d6ee81ecd93d",
+          "rootDataFileId": -1,
+          "md5": "a0483f148db6a43c8573f9228df45d34",
+          "checksum": {
+            "type": "MD5",
+            "value": "a0483f148db6a43c8573f9228df45d34"
+          },
+          "creationDate": "2015-05-08"
+        }
+      },
+      {
+        "label": "sms-call-internet-tn-2014-01-01.txt",
+        "restricted": false,
+        "version": 1,
+        "datasetVersionId": 181167,
+        "dataFile": {
+          "id": 2675705,
+          "persistentId": "doi:10.7910/DVN/QLCABU/FBTNS9",
+          "pidURL": "https://doi.org/10.7910/DVN/QLCABU/FBTNS9",
+          "filename": "sms-call-internet-tn-2014-01-01.txt",
+          "contentType": "text/plain; charset=US-ASCII",
+          "filesize": 310794216,
+          "storageIdentifier": "s3://dvn-cloud:14d35fe930f-0878082d0eb2",
+          "rootDataFileId": -1,
+          "md5": "5051d17c6fbf3d70250ccfdaf5f960e4",
+          "checksum": {
+            "type": "MD5",
+            "value": "5051d17c6fbf3d70250ccfdaf5f960e4"
+          },
+          "creationDate": "2015-05-08"
+        }
+      }
+    ],
+    "citation": "Telecom Italia, 2015, \"Telecommunications - SMS, Call, Internet - TN\", https://doi.org/10.7910/DVN/QLCABU, Harvard Dataverse, V1"
+  }
+}
