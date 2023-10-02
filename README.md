@@ -1,6 +1,11 @@
 # Tim Dataset Utility
 
-This repository includes a set of scripts and functions for processing and analyzing this dataset: [A multi-source dataset of urban life in the city of Milan and the Province of Trentino](https://www.nature.com/articles/sdata201555).
+This repository includes a set of scripts and functions for processing and analyzing this dataset: [A multi-source dataset of urban life in the city of Milan and the Province of Trentino](https://www.nature.com/articles/sdata201555). 
+
+In the dataset the position of the base stations is hidden, while data is collected over square cells with a size of $235 \times 235$ $m^2$. Inside each cell, traffic volume is aggregated and anonymized every ten minutes. A new trace is generated every time a user receives or sends SMS/calls or an Internet connection starts / ends.
+We then combine the position of the grid cells with the estimated position of real base stations obtained from a public dataset [OpenCellId](https://opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942).
+
+The following pipeline allows aggregating traces based on the position obtained from OpenCellId.
 
 ## Install
 
