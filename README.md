@@ -7,6 +7,8 @@ We then combine the position of the grid cells with the estimated position of re
 
 The following pipeline allows aggregating traces based on the position obtained from OpenCellId.
 
+The result of these pipelines are used to generate the datasets for the [PRORL paper](https://github.com/AlessandroStaffolani/prorl-orchestrator).
+
 ## Install
 
 ```shell
